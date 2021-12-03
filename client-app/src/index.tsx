@@ -8,6 +8,7 @@ import reportWebVitals from './reportWebVitals';
 import 'semantic-ui-css/semantic.min.css';
 import { store, StoreContext } from './app/stores/store';
 import {BrowserRouter} from 'react-router-dom';
+import 'react-datepicker/dist/react-datepicker.css'
 
 
 ReactDOM.render(
